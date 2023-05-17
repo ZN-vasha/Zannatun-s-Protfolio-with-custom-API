@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Adobe Illustrator",
+        "icon": "./assets/images/skills/icons8-adobe-illustrator-48.png"
+    },
+    {
+        "name": "Adobe PhotoShop",
+        "icon": "./assets/images/skills/icons8-photoshop-48.png"
+    },
+    {
+        "name": "Adobe XD",
+        "icon": "./assets/images/skills/icons8-adobe-xd-48.png"
+    },
+    {
+        "name": "MS Word",
+        "icon": "./assets/images/skills/icons8-microsoft-word-48.png"
+    },
+    {
+        "name": "MS PowerPoint",
+        "icon": "./assets/images/skills/icons8-microsoft-powerpoint-48.png"
+    },
+    {
+        "name": "MS Excel",
+        "icon": "./assets/images/skills/icons8-excel-48.png"
+    }
+]
