@@ -76,14 +76,12 @@ document.addEventListener("visibilitychange", function () {
 var typed = new Typed(".typing-text", {
   strings: [
     "B.Sc Engineer (CSE)",
-    "Designer",
-    "Researcher",
-    "Front-End Developer",
+    
   ],
   loop: true,
   typeSpeed: 50,
   backSpeed: 25,
-  backDelay: 500,
+  backDelay: 5000,
 });
 // <!-- typed js effect ends -->
 
@@ -136,7 +134,7 @@ function showProjects(projects) {
   let projectsContainer = document.querySelector("#work .box-container");
   let projectHTML = "";
   projects
-    .slice(0, 10)
+    .slice(0, 8)
     .filter((project) => project.category != "android")
     .forEach((project) => {
       projectHTML += `
